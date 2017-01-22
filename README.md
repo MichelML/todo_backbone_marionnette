@@ -1,1 +1,1 @@
-a small to do app made with backbone and marionnette
+a small todo app made with backbone and marionnette
