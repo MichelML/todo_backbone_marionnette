@@ -1,1 +1,1 @@
-a small to do app made with backbone and marionnette Edit
+a small to do app made with backbone and marionnette
